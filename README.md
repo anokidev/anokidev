@@ -7,10 +7,21 @@
 ![banner](/banner.png)
   
 ----
+
+<!--YOUTUBE-->
+<a href="https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCRPOp9IYKKzI8S4KLIyqYfw?color=red&label=YOUTUBE&logo=youtube&style=for-the-badge"/>
+</a>
   
-[Website](https://anokidev.github.io) | [Youtube](https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw) | [Twitter](https://www.twitter.com/anokidev) | [Facebook](https://www.facebook.com/anokidev.youssou)
-  
+<!--TWITTER-->
+<a href="https://twitter.com/anokidev">
 <img src="https://img.shields.io/twitter/follow/anokidev?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"/>
+</a>
+
+<!--REDDIT-->
+<a href="https://www.reddit.com/user/Anoki-Youssou">
+<img src="https://img.shields.io/reddit/user-karma/combined/Anoki-Youssou?color=red&logo=reddit&style=for-the-badge"/>
+</a>
   
 </div>
 
