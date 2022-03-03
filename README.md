@@ -10,6 +10,8 @@
   
 [Website](https://anokidev.github.io) | [Youtube](https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw) | [Twitter](https://www.twitter.com/anokidev) | [Facebook](https://www.facebook.com/anokidev.youssou)
   
+<img src="https://img.shields.io/twitter/follow/anokidev?color=blue&label=Twitter&logo=Twitter&style=for-the-badge"/>
+  
 </div>
 
 ----
