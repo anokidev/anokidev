@@ -8,7 +8,7 @@
   
 ----
   
-Welcome to my Github account my friend.
+Welcome to my Github homepage my friend.
   
 </div>
 
