@@ -27,13 +27,16 @@ I hope you have a good day! Happy coding and enjoy your life!
 
 #### CODING :
 
-Level : Beginner.
-Lang : Javascript, Typescript, and Python.
-Focus : Web Development, Sysadmin, and Datascience.
-
-----
+- Level : Beginner.
+- Lang : Javascript, Typescript, and Python.
+- Focus : Web Development, Sysadmin, and Datascience.
 
 #### SCHOOL : 
 
-Age : 13 years old.
-Current degree : None, still in High School.
+- Age : 13 years old.
+- Current degree : None, still in High School.
+
+#### PERSONAL :
+
+- Hobby : Programming.
+- Place : Bandung, Indonesia.
