@@ -7,6 +7,11 @@
 ![banner](/banner.png)
   
 ----
+  
+<!--GITHUB-->
+<a href="https://www.github.com/anokidev">
+<img src="https://img.shields.io/github/followers/anokidev?color=black&label=GITHUB&logo=github&style=for-the-badge"/>
+</a>
 
 <!--YOUTUBE-->
 <a href="https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw">
@@ -20,7 +25,7 @@
 
 <!--REDDIT-->
 <a href="https://www.reddit.com/user/Anoki-Youssou">
-<img src="https://img.shields.io/reddit/user-karma/combined/Anoki-Youssou?color=red&logo=reddit&style=for-the-badge"/>
+<img src="https://img.shields.io/reddit/user-karma/combined/Anoki-Youssou?color=red&label=reddit&logo=reddit&style=for-the-badge"/>
 </a>
   
 </div>
