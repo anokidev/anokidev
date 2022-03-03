@@ -2,9 +2,15 @@
 
 # Welcome !
 
+----
+
 ![banner](/banner.png)
   
+----
+  
 </div>
+
+----
 
 Hey there. How is your day?
 
