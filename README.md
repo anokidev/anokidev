@@ -10,6 +10,8 @@
   
 </div>
 
+Welcome to my Github account my friend.
+
 ----
 
 Hey there. How is your day?
