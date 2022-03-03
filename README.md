@@ -15,7 +15,7 @@
 
 <!--YOUTUBE-->
 <a href="https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCRPOp9IYKKzI8S4KLIyqYfw?color=red&label=YOUTUBE&logo=youtube&style=for-the-badge"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCRPOp9IYKKzI8S4KLIyqYfw?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"/>
 </a>
   
 <!--TWITTER-->
