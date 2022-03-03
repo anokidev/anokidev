@@ -14,14 +14,14 @@ Welcome to my Github account my friend.
 
 ----
 
-#### INTRODUCTION :
+### INTRODUCTION :
 
 Hey there. How is your day?
 
 My name is Anoki Youssou, just a normal guy learning how to code.
 I hope you have a good day! Happy coding and enjoy your life!
 
-Current Status :
+### STATUS :
 
 ----
 
