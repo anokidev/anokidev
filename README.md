@@ -8,7 +8,7 @@
   
 ----
   
-[Website](https://anokidev.github.io) | [Youtube](https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw) | [Twitter](https://www.twitter.com/anokidev) | [Facebook (https://www.facebook.com/anokidev.youssou)
+[Website](https://anokidev.github.io) | [Youtube](https://www.youtube.com/channel/UCRPOp9IYKKzI8S4KLIyqYfw) | [Twitter](https://www.twitter.com/anokidev) | [Facebook](https://www.facebook.com/anokidev.youssou)
   
 </div>
 
