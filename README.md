@@ -8,9 +8,9 @@
   
 ----
   
-</div>
-
 Welcome to my Github account my friend.
+  
+</div>
 
 ----
 
