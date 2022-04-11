@@ -2,8 +2,6 @@
 
 # Welcome !
 
-----
-
 ![banner](/banner.png)
   
 ----
