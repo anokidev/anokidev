@@ -49,4 +49,4 @@ I hope you have a good day! Happy coding and enjoy your life!
 
 - Level : Beginner.
 - Lang : Javascript, Typescript, and Python.
-- Focus : Web Development, Sysadmin, and Datascience.
+- Focus : Web Development.
